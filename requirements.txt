@@ -5,3 +5,4 @@ langchain_experimental
 openai
 tiktoken
 python-dotenv
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
